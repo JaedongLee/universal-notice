@@ -1,0 +1,9 @@
+ding-talk:
+  robot:
+    send-message:
+      url: "https://oapi.dingtalk.com/robot/send"
+      access-token: "644bba67c37b732c35d01809c5c55e3e3e26a6c9bfa373b5c16f7b56ed88e654"
+      secret: "SECf58d5116f64f5cd0e2d2200f70b4cb772b90e11a49706bdfa56e7c5ee9465c2b"
+server:
+  port: 23370
+
